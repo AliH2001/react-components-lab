@@ -1,6 +1,7 @@
 
 
-import '../components/WeatherForecast.css'
+import './WeatherForecast.css'
+
 const WeatherForecasts = (props) => {
     const {weatherForecast} = props
     return (
